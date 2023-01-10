@@ -1,3 +1,26 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline-end: 20px;
+}
 #logoAP{
  width: 150px;
 }
+
+img{
+    width: 25px;
+}
+
+a{    
+    padding-right: 7px;
+}
+
+.redes{
+    margin-right: 15px;
+}
+
+button{
+    margin-left:15px;
+}
+
